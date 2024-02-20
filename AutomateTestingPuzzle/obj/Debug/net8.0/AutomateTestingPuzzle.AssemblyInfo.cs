@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomateTestingPuzzle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3afe74f0f87ab111d6a953445658e7124e823099")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomateTestingPuzzle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomateTestingPuzzle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

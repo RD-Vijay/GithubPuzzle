@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lCjZ52wJVuWbCSud1F0Fw68d9Tn3RmcaMDmxZ0Ga5VjYBFygkSHqIGz1/MZPQ/R/40HIO79LZURkBse1v7DQrA==",
+  "dgSpecHash": "qg0W3YdOe7sWSmTBlflQ32DiPbvPwN9MSsydwWO46kf12S+xAa/QtwsmPlTgG9WlrmLrwcmoeChOQatNhCKZcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vijay.Bagdi\\source\\repos\\SeleniumPractice\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
+  "projectFilePath": "C:\\qawork\\GithubPuzzle\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

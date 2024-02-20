@@ -1062,11 +1062,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vijay.Bagdi\\source\\repos\\SeleniumPractice\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
+      "projectUniqueName": "C:\\qawork\\GithubPuzzle\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
       "projectName": "AutomateTestingPuzzle",
-      "projectPath": "C:\\Users\\Vijay.Bagdi\\source\\repos\\SeleniumPractice\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
+      "projectPath": "C:\\qawork\\GithubPuzzle\\AutomateTestingPuzzle\\AutomateTestingPuzzle.csproj",
       "packagesPath": "C:\\Users\\Vijay.Bagdi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vijay.Bagdi\\source\\repos\\SeleniumPractice\\AutomateTestingPuzzle\\obj\\",
+      "outputPath": "C:\\qawork\\GithubPuzzle\\AutomateTestingPuzzle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
